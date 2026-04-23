@@ -172,6 +172,9 @@
     { "id": "deep_aether:aether_moss_carpet", "required": false },
     { "id": "deep_aether:cloudbloom_carpet", "required": false },
     { "id": "deep_aether:skyjade_lantern", "required": false },
+    { "id": "paradise_lost:liverwort_carpet", "required": false },
+    { "id": "paradise_lost:cherine_lantern", "required": false },
+    { "id": "paradise_lost:calcite_flower_pot", "required": false },
     { "id": "alexsmobs:bison_carpet", "required": false }
   ]
 }

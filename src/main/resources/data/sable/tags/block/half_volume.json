@@ -61,6 +61,8 @@
     { "id": "paradise_lost:food_bowl", "required": false },
     { "id": "paradise_lost:incubator", "required": false },
     { "id": "burnt:smoke_detector", "required": false },
+    { "id": "supplementaries:blackboard", "required": false },
+    { "id": "supplementaries:crystal_display", "required": false },
     { "id": "immersiveengineering:steel_wallmount", "required": false },
     { "id": "immersiveengineering:alu_wallmount", "required": false },
     { "id": "immersiveengineering:treated_wallmount", "required": false },

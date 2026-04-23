@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "supplementaries:spring_launcher", "required": false }
+  ]
+}
