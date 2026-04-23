@@ -34,6 +34,7 @@
     { "id": "evenbetternether:nether_ruby_block", "required": false },
     { "id": "iceandfire:silver_block", "required": false },
     { "id": "iceandfire:sapphire_block", "required": false },
-    { "id": "iceandfire:raw_silver_block", "required": false }
+    { "id": "iceandfire:raw_silver_block", "required": false },
+    { "id": "quark:sturdy_stone", "required": false }
   ]
 }

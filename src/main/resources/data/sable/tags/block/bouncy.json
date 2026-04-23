@@ -8,7 +8,5 @@
     { "id": "alexscaves:sundrop", "required": false },
     { "id": "moresnifferflowers:corrupted_sludge", "required": false },
     { "id": "enderscape:drift_jelly_block", "required": false },
-    { "id": "paradise_lost:green_cloud", "required": false },
-    { "id": "paradise_lost:blue_cloud", "required": false }
   ]
 }

@@ -9,6 +9,7 @@
     { "id": "supplementaries:end_stone_lamp", "required": false },
     { "id": "quark:end_stone_brick_vertical_slab", "required": false },
     { "id": "quark:myalite", "required": false },
+    { "id": "quark:dusky_myalite", "required": false },
     { "id": "biomesoplenty:algal_end_stone", "required": false },
     { "id": "biomesoplenty:unmapped_end_stone", "required": false },
     { "id": "biomesoplenty:null_end_stone", "required": false },

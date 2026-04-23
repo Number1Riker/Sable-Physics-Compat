@@ -107,6 +107,10 @@
     { "id": "burnt:burnt_bamboo_stalk", "required": false },
     { "id": "burnt:burnt_moss_carpet", "required": false },
     { "id": "minecraft:turtle_egg", "required": false },
+    { "id": "alexsmobs:caiman_egg", "required": false },
+    { "id": "alexsmobs:platypus_egg", "required": false },
+    { "id": "alexsmobs:terrapin_egg", "required": false },
+    { "id": "alexsmobs:crocodile_egg", "required": false },
     { "id": "nomansland:tortoise_egg", "required": false },
     { "id": "nomansland:warding_effigy", "required": false },
     { "id": "nomansland:tap", "required": false },
@@ -164,6 +168,10 @@
     { "id": "immersiveengineering:warning_sign_arrow_double_down", "required": false },
     { "id": "immersiveengineering:warning_sign_arrow_double_left", "required": false },
     { "id": "immersiveengineering:warning_sign_arrow_double_right", "required": false },
-    { "id": "immersiveengineering:metal_ladder_none", "required": false }
+    { "id": "immersiveengineering:metal_ladder_none", "required": false },
+    { "id": "deep_aether:aether_moss_carpet", "required": false },
+    { "id": "deep_aether:cloudbloom_carpet", "required": false },
+    { "id": "deep_aether:skyjade_lantern", "required": false },
+    { "id": "alexsmobs:bison_carpet", "required": false }
   ]
 }

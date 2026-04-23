@@ -4,7 +4,6 @@
     { "id": "#chipped:obsidian", "required": false },
     { "id": "#chipped:crying_obsidian", "required": false },
     { "id": "supplementaries:cannon", "required": false },
-    { "id": "quark:sturdy_stone", "required": false },
     { "id": "quark:iron_rod", "required": false },
     { "id": "quark:jasper", "required": false },
     { "id": "quark:limestone", "required": false },

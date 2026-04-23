@@ -10,6 +10,7 @@
     { "id": "#chimes:wind_chimes", "required": false },
     { "id": "#quark:posts", "required": false },
     { "id": "#quark:ladders", "required": false },
+    { "id": "#quark:wooden_vertical_slab", "required": false },
     { "id": "#chipped:iron_bars", "required": false },
     { "id": "#chipped:lily_pad", "required": false },
     { "id": "#quark:hollow_logs", "required": false },
@@ -90,7 +91,12 @@
     { "id": "natures_spirit:evergreen_thatch_stairs", "required": false },
     { "id": "natures_spirit:evergreen_thatch_carpet", "required": false },
     { "id": "deep_aether:skyjade_chain", "required": false },
+    { "id": "deep_aether:aether_moss_carpet", "required": false },
+    { "id": "deep_aether:cloudbloom_carpet", "required": false },
+    { "id": "deep_aether:skyjade_lantern", "required": false },
     { "id": "suppsquared:crimson_lantern", "required": false },
+    { "id": "suppsquared:copper_lantern", "required": false },
+    { "id": "enderscape:bulb_lantern", "required": false },
     { "id": "snowyspirit:snow_globe", "required": false },
     { "id": "twilightforest:rope", "required": false },
     { "id": "ironfurnaces:item_spooky", "required": false },
@@ -219,7 +225,8 @@
     { "id": "immersiveengineering:warning_sign_arrow_double_down", "required": false },
     { "id": "immersiveengineering:warning_sign_arrow_double_left", "required": false },
     { "id": "immersiveengineering:warning_sign_arrow_double_right", "required": false },
-    { "id": "immersiveengineering:metal_ladder_none", "required": false }
+    { "id": "immersiveengineering:metal_ladder_none", "required": false },
+    { "id": "alexsmobs:bison_carpet", "required": false }
 
   ]
 }

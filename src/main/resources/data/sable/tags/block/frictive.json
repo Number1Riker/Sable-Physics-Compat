@@ -26,6 +26,7 @@
     { "id": "burnt:burnt_cactus", "required": false },
     { "id": "regions_unexplored:saguaro_cactus", "required": false },
     { "id": "nomansland:spike_trap", "required": false },
-    { "id": "immersiveengineering:grit_sand", "required": false }
+    { "id": "immersiveengineering:grit_sand", "required": false },
+    { "id": "supplementaries:bamboo_spikes", "required": false }
   ]
 }

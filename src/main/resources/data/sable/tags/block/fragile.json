@@ -43,6 +43,10 @@
     { "id": "burnt:burnt_melon", "required": false },
     { "id": "minecraft:turtle_egg", "required": false },
     { "id": "nomansland:tortoise_egg", "required": false },
+    { "id": "alexsmobs:caiman_egg", "required": false },
+    { "id": "alexsmobs:platypus_egg", "required": false },
+    { "id": "alexsmobs:terrapin_egg", "required": false },
+    { "id": "alexsmobs:crocodile_egg", "required": false },
     { "id": "frostiful:brittle_ice", "required": false },
     { "id": "regions_unexplored:saguaro_cactus", "required": false },
     { "id": "regions_unexplored:flowering_lily_pad", "required": false }

@@ -15,6 +15,7 @@
     { "id": "iceandfire:pixie_jar_2", "required": false },
     { "id": "iceandfire:pixie_jar_3", "required": false },
     { "id": "iceandfire:pixie_jar_4", "required": false },
-    { "id": "immersiveengineering:balloon", "required": false }
+    { "id": "immersiveengineering:balloon", "required": false },
+    { "id": "quark:myalite_crystal", "required": false }
   ]
 }
