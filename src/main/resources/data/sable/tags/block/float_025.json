@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+//    { "id": "#aether:aether_dirt", "required": false },
+//    { "id": "aether:aether_dirt_path", "required": false },
+//    { "id": "deep_aether:golden_heights_grass_block", "required": false },
+//    { "id": "deep_aether:golden_heights_dirt_path", "required": false },
+//    { "id": "deep_aether:aether_moss_block", "required": false }
+  ]
+}

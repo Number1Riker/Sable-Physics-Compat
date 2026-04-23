@@ -1,0 +1,7 @@
+{
+  "selector": "#sable:negative_friction",
+  "priority": 2000,
+  "properties": {
+    "sable:friction": -0.2
+  }
+}

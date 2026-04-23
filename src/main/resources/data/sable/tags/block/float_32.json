@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "enderitemod:enderite_block", "required": false },
+    { "id": "cataclysm:enderite_block", "required": false }
+  ]
+}

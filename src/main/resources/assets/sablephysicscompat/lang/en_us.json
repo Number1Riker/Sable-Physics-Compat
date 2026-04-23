@@ -1,0 +1,13 @@
+{
+  "itemGroup.sablephysicscompat": "Example Mod Tab",
+  "block.sablephysicscompat.example_block": "Example Block",
+  "item.sablephysicscompat.example_item": "Example Item",
+
+  "sablephysicscompat.configuration.title": "Sable: Physics Compat Configs",
+  "sablephysicscompat.configuration.section.sablephysicscompat.common.toml": "Sable: Physics Compat Configs",
+  "sablephysicscompat.configuration.section.sablephysicscompat.common.toml.title": "Sable: Physics Compat Configs",
+  "sablephysicscompat.configuration.items": "Item List",
+  "sablephysicscompat.configuration.logDirtBlock": "Log Dirt Block",
+  "sablephysicscompat.configuration.magicNumberIntroduction": "Magic Number Text",
+  "sablephysicscompat.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#chipped:soul_sand", "required": false },
+    { "id": "biomeswevegone:barrel_cactus", "required": false },
+    { "id": "biomeswevegone:flowering_barrel_cactus", "required": false },
+    { "id": "biomeswevegone:carved_barrel_cactus", "required": false },
+    { "id": "biomeswevegone:quicksand", "required": false },
+    { "id": "biomeswevegone:red_quicksand", "required": false },
+    { "id": "deeperdarker:gloomy_cactus", "required": false },
+    { "id": "deeperdarker:gleam_gel_block", "required": false },
+    { "id": "minecraft:creaking_heart", "required": false },
+    { "id": "netherexp:magma_cream_block", "required": false },
+    { "id": "netherexp:ecto_soul_sand", "required": false },
+    { "id": "netherexp:suspicious_ecto_soul_sand", "required": false },
+    { "id": "upgrade_aquatic:mulberry_jam_block", "required": false },
+    { "id": "atmospheric:aloe_gel_block", "required": false },
+    { "id": "buzzier_bees:honey_lamp", "required": false },
+    { "id": "bloomingnature:small_cactus", "required": false },
+    { "id": "yungscavebiomes:prickly_peach_cactus", "required": false },
+    { "id": "atmospheric:barrel_cactus", "required": false },
+    { "id": "bloomingnature:pebbles", "required": false },
+    { "id": "evenbetternether:barrel_cactus", "required": false },
+    { "id": "betternether:barrel_cactus", "required": false },
+    { "id": "betternether:nether_cactus", "required": false },
+    { "id": "burnt:burnt_cactus", "required": false },
+    { "id": "regions_unexplored:saguaro_cactus", "required": false },
+    { "id": "nomansland:spike_trap", "required": false },
+    { "id": "immersiveengineering:grit_sand", "required": false }
+  ]
+}

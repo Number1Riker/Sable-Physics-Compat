@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "enderitemod:enderite_respawn_anchor", "required": false },
+    { "id": "cataclysm:altar_of_void", "required": false }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#aether:aerclouds", "required": false },
+    { "id": "#paradise_lost:clouds", "required": false },
+    { "id": "#twilightforest:clouds", "required": false }
+  ]
+}

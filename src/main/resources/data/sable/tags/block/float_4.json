@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "biomesoplenty:anomaly", "required": false },
+    { "id": "quark:gravisand", "required": false },
+    { "id": "alexsmobs:ender_residue", "required": false },
+    { "id": "cataclysm:void_infused_end_stone_bricks", "required": false },
+    { "id": "cataclysm:void_stone", "required": false },
+    { "id": "cataclysm:void_crystal", "required": false },
+    { "id": "cataclysm:void_lantern_block", "required": false },
+    { "id": "aether:gravitite_ore", "required": false },
+    { "id": "paradise_lost:levita_ore", "required": false },
+    { "id": "iceandfire:pixie_jar_0", "required": false },
+    { "id": "iceandfire:pixie_jar_1", "required": false },
+    { "id": "iceandfire:pixie_jar_2", "required": false },
+    { "id": "iceandfire:pixie_jar_3", "required": false },
+    { "id": "iceandfire:pixie_jar_4", "required": false },
+    { "id": "immersiveengineering:balloon", "required": false }
+  ]
+}

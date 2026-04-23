@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "enderscape:drift_jelly_block", "required": false }
+  ]
+}

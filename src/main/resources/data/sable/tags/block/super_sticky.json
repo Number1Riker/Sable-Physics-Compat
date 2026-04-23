@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "alexsmobs:banana_slug_slime_block", "required": false },
+    { "id": "autumnity:snail_goo_block", "required": false }
+  ]
+}

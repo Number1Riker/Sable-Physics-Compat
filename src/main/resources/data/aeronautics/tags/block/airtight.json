@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#aether:aerclouds", "required": false },
+    { "id": "#aether:aerogel", "required": false },
+    { "id": "#twilightforest:clouds", "required": false },
+    { "id": "#paradise_lost:clouds", "required": false },
+    { "id": "alexsmobs:capsid", "required": false },
+    { "id": "natures_spirit:paper_block", "required": false },
+    { "id": "natures_spirit:blooming_paper_block", "required": false },
+    { "id": "natures_spirit:framed_paper_block", "required": false },
+    { "id": "paradise_lost:flaxweave_cushion", "required": false },
+    { "id": "paradise_lost:flaxweave_cushion_slab", "required": false },
+    { "id": "twilightforest:arctic_fur_block", "required": false },
+    { "id": "minecraft:pearlescent_froglight", "required": false },
+    { "id": "minecraft:verdant_froglight", "required": false },
+    { "id": "minecraft:ochre_froglight", "required": false },
+    { "id": "burnt:burnt_wool", "required": false },
+    { "id": "nomansland:vermilion_froglight", "required": false },
+    { "id": "immersiveengineering:cushion", "required": false }
+  ]
+}

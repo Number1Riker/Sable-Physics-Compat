@@ -1,0 +1,93 @@
+[
+  {
+    "selector": "aether:enchanted_gravitite",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 4.0
+    }
+  },
+  {
+    "selector": "#aether:aerclouds",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 1.0
+    }
+  },
+  {
+    "selector": "#twilightforest:clouds",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 1.0
+    }
+  },
+  {
+    "selector": "biomesoplenty:anomaly",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 4.0
+    }
+  },
+  {
+    "selector": "enderitemod:enderite_ore",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 6.0
+    }
+  },
+  {
+    "selector": "enderitemod:cracked_enderite_ore",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 6.0
+    }
+  },
+  {
+    "selector": "enderitemod:enderite_block",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 24.0
+    }
+  },
+  {
+    "selector": "enderitemod:enderite_shulker_box",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 8.0
+    }
+  },
+  {
+    "selector": "enderitemod:enderite_respawn_anchor",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 12.0
+    }
+  },
+  {
+    "selector": "aether:chromatic_aercloud",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 6.0
+    }
+  },
+  {
+    "selector": "ironfurnaces:million_furnace",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 8.0
+    }
+  },
+  {
+    "selector": "quark:gravisand",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 4.0
+    }
+  },
+  {
+    "selector": "alexsmobs:ender_residue",
+    "properties": {
+      "sable:floating_material": "aeronautics:levitite",
+      "sable:floating_scale": 4.0
+    }
+  }
+]
