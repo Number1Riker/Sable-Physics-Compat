@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "architects_palette:polished_packed_ice", "required": false },
+    { "id": "architects_palette:polished_packed_ice_slab", "required": false },
+    { "id": "architects_palette:polished_packed_ice_vertical_slab", "required": false },
+    { "id": "architects_palette:polished_packed_ice_stairs", "required": false },
+    { "id": "architects_palette:polished_packed_ice_wall", "required": false },
+    { "id": "architects_palette:chiseled_packed_ice", "required": false },
+    { "id": "architects_palette:packed_ice_pillar", "required": false }
+  ]
+}

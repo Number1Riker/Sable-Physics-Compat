@@ -49,6 +49,7 @@
     { "id": "alexsmobs:crocodile_egg", "required": false },
     { "id": "frostiful:brittle_ice", "required": false },
     { "id": "regions_unexplored:saguaro_cactus", "required": false },
-    { "id": "regions_unexplored:flowering_lily_pad", "required": false }
+    { "id": "regions_unexplored:flowering_lily_pad", "required": false },
+    { "id": "architects_palette:crustless_bread_block", "required": false }
   ]
 }

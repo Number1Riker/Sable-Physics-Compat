@@ -37,7 +37,24 @@
     { "id": "paradise_lost:levita_brick", "required": false },
     { "id": "paradise_lost:levita_brick_stairs", "required": false },
     { "id": "paradise_lost:levita_brick_slab", "required": false },
-    { "id": "paradise_lost:chiseled_levita_brick", "required": false }
-
+    { "id": "paradise_lost:chiseled_levita_brick", "required": false },
+    { "id": "architects_palette:choral_end_stone_bricks", "required": false },
+    { "id": "architects_palette:chiseled_end_stone_bricks", "required": false },
+    { "id": "architects_palette:cracked_end_stone_bricks", "required": false },
+    { "id": "architects_palette:heavy_end_stone_bricks", "required": false },
+    { "id": "architects_palette:heavy_cracked_end_stone_bricks", "required": false },
+    { "id": "architects_palette:ender_pearl_block", "required": false },
+    { "id": "architects_palette:unobtanium_block", "required": false },
+    { "id": "mcwbridges:end_stone_bricks_bridge_pier", "required": false },
+    { "id": "mcwbridges:balustrade_end_stone_bricks_bridge", "required": false },
+    { "id": "mcwbridges:end_stone_bricks_bridge", "required": false },
+    { "id": "mcwbridges:end_stone_bricks_bridge_stair", "required": false },
+    { "id": "mcwwindows:end_brick_gothic", "required": false },
+    { "id": "mcwwindows:ender_brick_arrow_slit", "required": false },
+    { "id": "mcwfences:modern_end_brick_wall", "required": false },
+    { "id": "mcwfences:railing_end_brick_wall", "required": false },
+    { "id": "mcwfences:end_brick_railing_gate", "required": false },
+    { "id": "mcwfences:end_brick_pillar_wall", "required": false },
+    { "id": "mcwfences:end_brick_grass_topped_wall", "required": false }
   ]
 }

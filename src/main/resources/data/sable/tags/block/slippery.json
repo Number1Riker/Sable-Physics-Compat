@@ -31,5 +31,6 @@
     { "id": "nomansland:icicles", "required": false },
     { "id": "iceandfire:dragon_ice_spikes", "required": false },
     { "id": "rare_ice:rare_ice", "required": false }
+    
   ]
 }
