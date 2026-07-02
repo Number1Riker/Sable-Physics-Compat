@@ -3,7 +3,7 @@
   "values": [
     { "id": "enderitemod:enderite_ore", "required": false },
     { "id": "enderitemod:cracked_enderite_ore", "required": false },
-    { "id": "aether:chromatic_aercloud", "required": false },
+    { "id": "deep_aether:chromatic_aercloud", "required": false },
     { "id": "cataclysm:abyssal_egg", "required": false },
     { "id": "aether:enchanted_gravitite", "required": false },
     { "id": "paradise_lost:levitator", "required": false }

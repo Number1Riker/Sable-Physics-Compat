@@ -1,0 +1,7 @@
+{
+  "selector": "enderitemod:enderite_respawn_anchor",
+  "properties": {
+    "sable:floating_material": "aeronautics:levitite",
+    "sable:floating_scale": 12.0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "selector": "#aether:aerclouds",
+  "properties": {
+    "sable:floating_material": "aeronautics:levitite",
+    "sable:floating_scale": 1.0
+  }
+}

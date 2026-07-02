@@ -1,0 +1,7 @@
+{
+  "selector": "deep_aether:chromatic_aercloud",
+  "properties": {
+    "sable:floating_material": "aeronautics:levitite",
+    "sable:floating_scale": 6.0
+  }
+}

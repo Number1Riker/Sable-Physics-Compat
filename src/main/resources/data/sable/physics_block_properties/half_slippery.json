@@ -1,5 +1,5 @@
 {
-  "selector": "#sable:super_sticky",
+  "selector": "#sable:half_slippery",
   "priority": 2000,
   "properties": {
     "sable:friction": 0.5
