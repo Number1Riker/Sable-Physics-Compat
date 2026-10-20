@@ -1,0 +1,7 @@
+{
+  "selector": "#sable:compat_float_biomesoplenty_anomaly",
+  "properties": {
+    "sable:floating_material": "aeronautics:levitite",
+    "sable:floating_scale": 4.0
+  }
+}

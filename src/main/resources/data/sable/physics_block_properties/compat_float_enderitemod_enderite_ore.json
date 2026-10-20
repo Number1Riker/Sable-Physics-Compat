@@ -1,0 +1,7 @@
+{
+  "selector": "#sable:compat_float_enderitemod_enderite_ore",
+  "properties": {
+    "sable:floating_material": "aeronautics:levitite",
+    "sable:floating_scale": 6.0
+  }
+}

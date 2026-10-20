@@ -1,0 +1,7 @@
+{
+  "selector": "#sable:compat_float_ironfurnaces_million_furnace",
+  "properties": {
+    "sable:floating_material": "aeronautics:levitite",
+    "sable:floating_scale": 8.0
+  }
+}
